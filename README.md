@@ -8,3 +8,5 @@ When a new game is started, the user can determine the exact rules, including wh
 
 DETAILS:
 The main module of the program is in the file "Sprint5.py". The large commented section with methods from gameTesting class are unit tests that were used to prove the functionality of the program.
+
+This was developed using an agile, sprint-based development style by me alone. To see the evolution of this project over time, see the repositories for the other sprints on my profile.
